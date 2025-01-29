@@ -1,0 +1,7 @@
+
+cd my-app > npm start
+cd backend > node server.js
+
+Båda måste köras 
+
+Jag tog bort node_modules så "npm install" för att få alla nödvändiga packages. 
